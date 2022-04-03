@@ -1,0 +1,5 @@
+sanity manage 
+opens trhe management console responsible for fetching the api token and process ID. 
+
+SANITY START
+opens the backend CMS (sanity) in localhost:3333
